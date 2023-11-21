@@ -1,5 +1,5 @@
 module.exports = {
-  stories: ["../src/components/DesignSystemHeadlineFive.stories.tsx"],
+  stories: ["../src/**/*.stories.@(js|jsx|ts|tsx)"],
   addons: [
     {
       name: "@storybook/addon-react-native-web",
