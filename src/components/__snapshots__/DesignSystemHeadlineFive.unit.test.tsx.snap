@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DesignSystemHeadlineFive renders text correctly 1`] = `
+<Text
+  style={
+    [
+      {
+        "color": "#042D49",
+        "fontFamily": "TTFirsNeue-Medium",
+        "fontSize": 14,
+        "letterSpacing": -0.22,
+        "lineHeight": 18,
+      },
+      undefined,
+    ]
+  }
+>
+  Test
+</Text>
+`;
