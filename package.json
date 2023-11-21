@@ -21,7 +21,7 @@
     "babel-plugin-react-native-web": "^0.19.9",
     "metro-react-native-babel-preset": "0.76.8",
     "react-dom": "^18.2.0",
-    "react-native-web": "^0.19.8",
+    "react-native-web": "^0.19.9",
     "react-test-renderer": "18.2.0",
     "storybook": "^7.5.3",
     "typescript": "^5.2.2"
